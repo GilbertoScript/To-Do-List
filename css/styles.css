@@ -1,0 +1,73 @@
+/* * {
+    border: 1px solid red;
+} */
+
+html {
+  overflow-y: hidden;
+}
+
+#title {
+  height: 100vh;
+  background-color: royalblue;
+}
+
+.display-1 {
+  font-weight: 600;
+}
+
+.content {
+  background-color: #06d6a0;
+  padding: 1%;
+}
+
+input[type="text"] {
+  height: 45px;
+  margin-bottom: 10px;
+}
+
+button {
+  cursor: pointer;
+  width: 30px;
+  height: 35px;
+  padding: 10px;
+  border: none;
+  background-color: white;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+}
+
+button:hover {
+  background-color: royalblue;
+  color: white;
+}
+
+#add-task:hover {
+  background-color: royalblue;
+  color: white;
+  border: none;
+  transition: 0.4s;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+  padding: 15px;
+  background-color: whitesmoke;
+  overflow-y: auto;
+  height: 79vh;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid lightslategrey;
+  margin: 7px 0;
+  height: 40px;
+}
+
+/*
+html, body, #main {
+    height: 100%;
+}
+*/
