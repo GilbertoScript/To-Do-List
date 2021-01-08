@@ -29,3 +29,9 @@ Nesta Lista de Tarefas feita em JavaScript foram utilizadas as seguintes tecnolo
 - [CSS](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com/)
 - [JavaScript](https://www.w3schools.com/js/)
+
+### :airplane: Acesse o projeto
+
+Hospedado no Netlify
+
+https://to-do-list-gsj.netlify.app/
