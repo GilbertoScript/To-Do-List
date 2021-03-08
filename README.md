@@ -1,3 +1,4 @@
+<h1 align="center">📜</h1>
 <h1 align="center">To - Do - List</h1>
 <div align="center"><img src="img/todolist.PNG"></div>
 
